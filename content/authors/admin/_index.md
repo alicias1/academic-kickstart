@@ -15,15 +15,17 @@ role: PhD Student Department of Disease Control
 # Organizations/Affiliations
 organizations:
 - name: London School of Hygiene and Tropical Medicine
-  url: ""
+  url: "https://www.lshtm.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am investigating human attractiveness to malaria mosquitoes with Dr Rachel Allen and Professor James Logan. I also coordinate “Outbreak Control”, a public engagement workshop that introduces GCSE students to careers in public health. 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+
+- Entomology
+- Microbiology
+- Epidemiology
+- Malaria
 
 education:
   courses:
