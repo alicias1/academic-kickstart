@@ -29,15 +29,15 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Disease Control
+    institution: London School of Hygiene and Tropical Medicine
+    year: 2019 - present
+  - course: MSc in Epidemiology (Merit)
+    institution: London School of Hygiene and Tropical Medicine
+    year: 2020
+  - course: BSc(Hons) in Biological Sciences
+    institution: University of Liverpool
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -71,7 +71,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Through an MRC London Intercollegiate Doctoral Training Partnership 1+3 scholarship I studied an MSc in Epidemiology to develop my advanced quantitative skills before beginning my PhD with Professor James Logan and Dr Rachel Allen where I am investigating human attractiveness to malaria mosquitoes. I also coordinate “Outbreak Control”, a public engagement workshop that introduces GCSE students to careers in public health. Before joining the school, I obtained a first class BSc(Hons) in Biological Sciences from the University of Liverpool.
