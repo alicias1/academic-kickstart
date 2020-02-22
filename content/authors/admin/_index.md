@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Student Department of Disease Control
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: London School of Hygiene and Tropical Medicine
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
