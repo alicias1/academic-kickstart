@@ -32,4 +32,9 @@ subtitle = ""
   name = "Molecular laboratory"
  # description = "10%"
 
+[[feature]]
+  icon = "child"
+  icon_pack = "fas"
+  name = "Public engagement"
+ # description = "10%"
 +++
