@@ -5,7 +5,7 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 80  # Order that this section will appear.
 
 title = "Blog"
 subtitle = ""
@@ -68,3 +68,4 @@ subtitle = ""
 
 
 ## **Fieldwork (February 2020)**
+An awesome first PhD field trip to The Gambia where I learnt how to use the QIAcube DNA extraction robot for high throughput extractions at the [Medical Research Council Unit The Gambia](https://www.mrc.gm). Then traveled to Farafenni to help kick off the Gambian part of the Genoscent study. I had the opportunity to work with our field team visiting rural villages to recruit twins and to collect some of the first Gambian samples. 
