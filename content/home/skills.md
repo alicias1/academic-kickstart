@@ -27,7 +27,7 @@ subtitle = ""
  # description = "100%"  
   
 [[feature]]
-  icon = "fa-vial"
+  icon = "vial"
   icon_pack = "fas"
   name = "Molecular laboratory"
  # description = "10%"
