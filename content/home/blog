@@ -1,6 +1,7 @@
 ---
 title: Blog posts
 
+weight = 80
 # View.
 #   1 = List
 #   2 = Compact
