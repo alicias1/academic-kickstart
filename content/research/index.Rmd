@@ -1,0 +1,20 @@
+---
+title: Research
+summary: List of projects.
+date: ""
+
+reading_time: false  # Show estimated reading time?
+share: false  # Show social sharing links?
+profile: false  # Show author profile?
+comments: false  # Show comments?
+
+# Optional header image (relative to `static/img/` folder).
+#header: 
+#caption: ""
+#image: ""
+---
+
+## **PhD project**
+
+My PhD is part of the MRC-funded [GenoScent project](https://www.lshtm.ac.uk/research/centres-projects-groups/genoscent) which aims to investigate the genetic basis of attractiveness to mosquitoes, both in the UK and in a natural host-vector-parasite system in The Gambia. My project will focus on the skin microbiome to understand the natural attractants and repellants humans produce that make them more or less attractive to mosquitoes. 
+
