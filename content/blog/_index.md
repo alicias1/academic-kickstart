@@ -1,5 +1,8 @@
 ---
 title: Blog
+summary: Blog posts.
+date: ""
+
 # View.
 #   1 = List
 #   2 = Compact
@@ -7,7 +10,10 @@ title: Blog
 view: 2
 
 # Optional header image (relative to `static/img/` folder).
-header:
-  caption: ""
-  image: ""
+# header:
+ # caption: ""
+  # image: ""
 ---
+
+TEST
+TEST
