@@ -32,10 +32,10 @@ education:
   - course: PhD in Disease Control
     institution: London School of Hygiene and Tropical Medicine
     year: 2019 - present
-  - course: MSc in Epidemiology (Merit)
+  - course: MSc in Epidemiology, Merit
     institution: London School of Hygiene and Tropical Medicine
     year: 2020
-  - course: BSc(Hons) in Biological Sciences
+  - course: 1st Class BSc(Hons) in Biological Sciences
     institution: University of Liverpool
     year: 2018
 
