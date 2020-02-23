@@ -1,5 +1,7 @@
 ---
-title: Research
+title: Blog
+type: docs
+
 
 # View.
 #   1 = List
