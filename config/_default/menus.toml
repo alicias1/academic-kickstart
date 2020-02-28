@@ -20,13 +20,13 @@
 
 [[main]]
   name = "Talks"
-  url = "#talks"
-  weight = 40
+  url = "talk/"
+  weight = 0
   
  [[main]]
   name = "Blog"
   url = "blog/"
-  weight = 50
+  weight = 0
   
 [[main]]
   name = "Contact"
