@@ -15,5 +15,3 @@ view: 2
   # image: ""
 ---
 
-TEST
-TEST
