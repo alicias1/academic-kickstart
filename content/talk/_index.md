@@ -1,14 +1,5 @@
 ---
 title: Recent & Upcoming Talks
-
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-view: 2
-
-# Optional header image (relative to `static/img/` folder).
-header:
-  caption: ""
-  image: ""
+summary: "Recent and upcoming poster and presentations"  # Add a page description.
+type: "widget_page"  # Page type is a Widget Page
 ---
