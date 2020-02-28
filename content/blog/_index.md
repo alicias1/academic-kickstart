@@ -6,5 +6,6 @@ type: "widget_page"  # Page type is a Widget Page
 
 ## **First fieldwork trip of my PhD**
 
-date: "2020-02-15T00:00:00Z"
+date: "2020-02-15 14:32"
+
 A succesful first PhD field trip to The Gambia where I learnt how to use the QIAcube DNA extraction robot for high throughput extractions at the [Medical Research Council Unit The Gambia](https://www.mrc.gm). Then traveled to Farafenni to help kick off the Gambian part of the Genoscent study. I had the opportunity to work with our field team visiting rural villages to recruit twins and at our field site collecting some of the first Gambian samples. 
