@@ -21,12 +21,12 @@
 [[main]]
   name = "Talks"
   url = "talk/"
-  weight = 0
+ # weight = 0
   
  [[main]]
   name = "Blog"
   url = "blog/"
-  weight = 0
+  # weight = 0
   
 [[main]]
   name = "Contact"
