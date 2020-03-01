@@ -18,7 +18,7 @@ organizations:
   url: "https://www.lshtm.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am investigating human attractiveness to malaria mosquitoes with Dr Rachel Allen and Professor James Logan. I also coordinate “Outbreak Control”, a public engagement workshop that introduces GCSE students to careers in public health. 
+bio: I am investigating human attractiveness to malaria mosquitoes with [Dr Rachel Allen](https://www.sgul.ac.uk/profiles/rachel-allen) and [Professor James Logan](https://www.lshtm.ac.uk/aboutus/people/logan.james). I also coordinate “Outbreak Control”, a public engagement workshop that introduces GCSE students to careers in public health. 
 
 interests:
 
