@@ -9,8 +9,11 @@ type: "widget_page"  # Page type is a Widget Page
 
 I presented a talk about my PhD project at the [Royal Entomological Society](https://www.royensoc.co.uk) postgraduate forum on Friday 21st February 2020. 
 
+
+## **LSHTM Poster Day**
+The annual LSHTM Poster Day on Tuesday 17th March was cancelled due to COVID-19. Instead you can see my poster on the [virtual poster site](https://lshtm.sharepoint.com/students/Pages/RD-virtual-doctoral-college.aspx).
+
 <br>
 
 ## **Upcoming:**
-## **LSHTM Poster Day**
-I will be presenting a poster about my PhD at the annual LSHTM Poster Day on Tuesday 17th March 4-6pm in the South Courtyard. Come along if you are free!
+
