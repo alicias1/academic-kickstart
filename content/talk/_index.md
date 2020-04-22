@@ -16,4 +16,4 @@ The annual LSHTM Poster Day on Tuesday 17th March was cancelled due to COVID-19.
 <br>
 
 ## **Upcoming:**
-
+To be confirmed post COVID-19 lockdown...
