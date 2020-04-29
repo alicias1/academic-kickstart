@@ -71,4 +71,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Through an [MRC LID](https://mrc-lid.lshtm.ac.uk) 1+3 scholarship I studied an MSc in Epidemiology to develop my advanced quantitative skills before beginning my PhD with Professor James Logan and Dr Rachel Allen where I am investigating human attractiveness to malaria mosquitoes. I also coordinate “Outbreak Control”, a public engagement workshop that introduces GCSE students to careers in public health. Before joining the school, I obtained a first class BSc(Hons) in Biological Sciences from the University of Liverpool.
+Through an [MRC LID](https://mrc-lid.lshtm.ac.uk) 1+3 scholarship I studied an MSc in Epidemiology to develop my advanced quantitative skills before beginning my PhD where I am investigating human attractiveness to malaria mosquitoes. I also coordinate “Outbreak Control”, a public engagement workshop that introduces GCSE students to careers in public health and am a residential advisor at University of London halls. Before joining the school, I obtained a first class BSc(Hons) in Biological Sciences from the University of Liverpool.
