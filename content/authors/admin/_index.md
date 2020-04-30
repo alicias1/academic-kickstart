@@ -35,7 +35,7 @@ education:
   - course: MSc in Epidemiology with Merit
     institution: London School of Hygiene and Tropical Medicine
     year: 2020
-  - course: 1st Class BSc(Hons) in Biological Sciences
+  - course: 1st Class BSc in Biological Sciences
     institution: University of Liverpool
     year: 2018
 
@@ -71,5 +71,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Through an [MRC LID](https://mrc-lid.lshtm.ac.uk) 1+3 scholarship I studied an MSc in Epidemiology to develop my advanced quantitative skills before beginning my PhD where I am investigating human attractiveness to malaria mosquitoes. I also coordinate “Outbreak Control”, a public engagement workshop that introduces GCSE students to careers in public health and am a residential advisor at University of London halls. Before joining the school, I obtained a first class BSc(Hons) in Biological Sciences from the University of Liverpool.
-[here](https://aliciashowering.netlify.app)
+My research interests include the microbiome and vector bourne disease. Through an [MRC LID](https://mrc-lid.lshtm.ac.uk) 1+3 scholarship I am undertaking my PhD at the London School of Hygiene and Tropical Medicine investigating the skin microbiome and human attractiveness to malaria mosquitoes. Prior to my PhD I obtained an MSc in Epidemiology at LSHTM (2018-19) and a first class BSc(Hons) in Biological Sciences from the University of Liverpool (2015-2018).
+
+I currently demonstrate on statistics and entomology practicals at LSHTM. I am a distance learning tutor for Infectious Diseases masters programme and a residential advisor in University of London halls. I also coordinate an MRC funded public engagement programme "Outbreak control" which introduces GCSE students to careers in public health. 
