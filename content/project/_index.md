@@ -18,7 +18,7 @@ I co-organise "Outbreak: an introduction to careers in public health", a public 
 ## **Past projects**
 ## **Masters summer project 2019**
 
-Where: London School of Hygiene and Tropical Medicine 
+Insitution: London School of Hygiene and Tropical Medicine 
 
 Supervisor: Dr Ernest Diez Benavente
 
@@ -31,7 +31,7 @@ I investigated associations between established risk factors of cardiovascular d
 
 ## **Undergraduate project 2017-18**
 
-Where: University of Liverpool/ Liverpool school of tropical medicine
+Insitution: University of Liverpool/ Liverpool school of tropical medicine
 
 Supervisor: Dr Seth Barribeau (UOL) and Dr Lee Haynes (LSTM)
 
@@ -44,7 +44,7 @@ My honour project aimed to establish RNA interference for transcript knock down 
 
 ## **Summer studentship project 2017**
 
-Where: University of Liverpool
+Insitution: University of Liverpool
 
 Supervisor: Professor Alan McCarthy and Dr Claire Scantlebury
 
