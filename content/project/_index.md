@@ -33,7 +33,7 @@ I investigated associations between established risk factors of cardiovascular d
 
 Insitution: University of Liverpool/ Liverpool school of tropical medicine
 
-Supervisor: [Dr Seth Barribeau (UOL)](http://seth.barribeau.com/home/) and [Dr Lee Haines (LSTM)](https://www.lstmed.ac.uk/about/people/dr-lee-haines)
+Supervisors: [Dr Seth Barribeau (UOL)](http://seth.barribeau.com/home/) and [Dr Lee Haines (LSTM)](https://www.lstmed.ac.uk/about/people/dr-lee-haines)
 
 The project: 
 
@@ -46,7 +46,7 @@ My honour project aimed to establish RNA interference for transcript knock down 
 
 Insitution: University of Liverpool
 
-Supervisor: [Professor Alan McCarthy](https://www.liverpool.ac.uk/integrative-biology/staff/alan-mccarthy/) and [Dr Claire Scantlebury](https://www.liverpool.ac.uk/integrative-biology/staff/claire-scantlebury/)
+Supervisors: [Professor Alan McCarthy](https://www.liverpool.ac.uk/integrative-biology/staff/alan-mccarthy/) and [Dr Claire Scantlebury](https://www.liverpool.ac.uk/integrative-biology/staff/claire-scantlebury/)
 
 The project: 
 
