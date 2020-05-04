@@ -29,7 +29,7 @@ A Cardiovascular Disease Risk Factor Analysis in Working Age Russians
 I investigated associations between established risk factors of cardiovascular disease (BMI, smoking and alcohol) the gut microbiota and cardiovascular disease. The project gave me the opportunity to learn how to use QIIME2 for microbiome analysis and work on a large explanatory analysis as part of the Know your heart study. I used linear regression to associate risk factors and the relative abundance of bacteria at the phylum and family levels. Regression was also used to investigate associations of the relative abundance of bacteria with heart pathology markers associated with cardiovascular disease (NT-pro BNP and Troponin). 
 
 
-## **Undergraduate project 2017-18**
+## **Undergraduate honours project 2017-18**
 
 Insitution: University of Liverpool/ Liverpool school of tropical medicine
 
