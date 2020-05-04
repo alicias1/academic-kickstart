@@ -7,7 +7,15 @@ type: "widget_page"  # Page type is a Widget Page
 ## **Current:**
 ## **PhD project 2019-Present**
 
-My PhD is part of the MRC-funded [GenoScent project](https://www.lshtm.ac.uk/research/centres-projects-groups/genoscent) which aims to investigate the genetic basis of attractiveness to mosquitoes, both in the UK and in a natural host-vector-parasite system in The Gambia. My project will focus on the skin microbiome to understand the natural attractants and repellants humans produce that make them more or less attractive to mosquitoes.
+Insitution: London School of Hygiene and Tropical Medicine  
+
+Supervisors: [Professor James Logan](https://www.lshtm.ac.uk/aboutus/people/logan.james) and [Dr Rachel Allen](https://www.sgul.ac.uk/profiles/rachel-allen)
+
+The project: 
+
+The skin microbiome and human attractivness to malaria mosquitoes 
+
+My PhD project is part of the MRC-funded [GenoScent project](https://www.lshtm.ac.uk/research/centres-projects-groups/genoscent) which aims to investigate the genetic basis of attractiveness to mosquitoes, both in the UK and in a natural host-vector-parasite system in The Gambia. The study will provide insight into the mechanisms that can affect our body odour, and make people more or less attractive to mosquitoes. By collecting body odour from identical and non-identical twins in the UK and The Gambia, we will test the relative attractiveness of twins to the major vector of malaria, Anopheles mosquitoes, in behavioural experiments as well as investigate their odour profiles. My PhD is focused on the skin microbiome of these participants. I will associate the skin microbiome with the body odour and attractiveness to mosquitoes. Understanding the role of the microbiome in how humans produce natural attractants and repellents could be used to develop novel vector control tools in the future.
 
 To hear experts discuss why some people get bitten more than others listen [here](https://www.bbc.co.uk/sounds/play/w3csz1vc).
 
