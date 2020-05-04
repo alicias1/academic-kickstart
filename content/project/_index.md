@@ -52,5 +52,5 @@ The project:
 
 [Development of a diagnostic test for Equine Histoplasmosis](https://csd-inventory.liverpool.ac.uk/life-sciences/news/stories/title,976960,en.php)
 
-I was awarded [Society for applied microbiology](https://sfam.org.uk) funding for an eight week placement in the University of Liverpool Microbiology Research Group between my second and third year of my undergraduate degree. During the project I developed my molecular biology skills, had my first taste of research and achieved the project aim, proving that equine histoplasmosis is present in West as well as East Africa. 
+I was awarded [Society for applied microbiology](https://sfam.org.uk) funding for an eight week placement in the University of Liverpool Microbiology Research Group between the second and third years of my undergraduate degree. During the project I developed my molecular biology skills, had my first taste of research and achieved the project aim, proving that equine histoplasmosis is present in West as well as East Africa. 
 
