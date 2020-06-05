@@ -50,7 +50,9 @@ Insitution: University of Liverpool
 
 Supervisors: [Professor Alan McCarthy](https://www.liverpool.ac.uk/integrative-biology/staff/alan-mccarthy/) and [Dr Claire Scantlebury](https://www.liverpool.ac.uk/integrative-biology/staff/claire-scantlebury/)
 
-The project: [Development of a diagnostic test for Equine Histoplasmosis](https://csd-inventory.liverpool.ac.uk/life-sciences/news/stories/title,976960,en.php)
+The project: Development of a diagnostic test for Equine Histoplasmosis
 
 I was awarded [Society for applied microbiology](https://sfam.org.uk) funding for an eight week placement in the University of Liverpool Microbiology Research Group between the second and third years of my undergraduate degree. During the project I developed my molecular biology skills, had my first taste of research and achieved the project aim, proving that equine histoplasmosis is present in West as well as East Africa. 
+
+Read more [here:](https://csd-inventory.liverpool.ac.uk/life-sciences/news/stories/title,976960,en.php)
 
