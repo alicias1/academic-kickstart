@@ -11,7 +11,7 @@ I presented a talk about my PhD project at the [Royal Entomological Society](htt
 
 
 ## **LSHTM Poster Day**
-The annual LSHTM Poster Day on Tuesday 17th March was cancelled due to COVID-19. Instead LSHTM staff and students can access my poster through the [virtual poster site](https://ble.lshtm.ac.uk/course/view.php?id=3659) until 15th May to find out about my project, post comments or questions.
+The annual LSHTM Poster Day on Tuesday 17th March was cancelled due to COVID-19. Instead LSHTM staff and students can access my poster through the [virtual poster site](https://ble.lshtm.ac.uk/course/view.php?id=3659) to find out about my project, post comments or questions.
 
 <br> 
 
