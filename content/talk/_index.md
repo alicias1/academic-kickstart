@@ -11,9 +11,10 @@ I presented a talk about my PhD project at the [Royal Entomological Society](htt
 
 
 ## **LSHTM Poster Day**
-The annual LSHTM Poster Day on Tuesday 17th March was cancelled due to COVID-19. Instead LSHTM staff and students can access my poster through the [virtual poster site](https://ble.lshtm.ac.uk/course/view.php?id=3659) to find out about my project, post comments or questions.
+I present a virtual poster at the LSHTM poster day on Tuesday 17th March. LSHTM staff and students can access my poster through the [virtual poster site](https://ble.lshtm.ac.uk/course/view.php?id=3659) to find out about my project, post comments or questions.
 
 <br> 
 
 ## **Upcoming:**
-To be confirmed post COVID-19 lockdown...
+I will be presenting a Turbo Talk at the Malaria Center Student Showcase on Thursday 25th February 2021.
+I will be competing at the YES20 Plant, microbial and environment workshop in March 2021. 
