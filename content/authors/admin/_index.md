@@ -68,6 +68,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
-My research interests include the microbiome and vector bourne disease. Through an [MRC LID 1+3 scholarship](https://mrc-lid.lshtm.ac.uk) I am undertaking my PhD at the London School of Hygiene and Tropical Medicine investigating the skin microbiome and human attractiveness to malaria mosquitoes. Prior to my PhD I obtained an MSc in Epidemiology from LSHTM (2018-19) and a first class BSc(Hons) in Biological Sciences from the University of Liverpool (2015-2018).
+My research interests focus on discovering and protecting from infectious diseases. Through an [MRC London Intercollegiate Doctoral scholarship](https://mrc-lid.lshtm.ac.uk) I am undertaking my PhD at LSHTM investigating the skin microbiome and human attractiveness to malaria mosquitoes. Prior to my PhD I obtained an MSc in Epidemiology from LSHTM (2018-19) and a first class BSc(Hons) in Biological Sciences from the University of Liverpool (2015-2018).
 
-I currently demonstrate on statistics and entomology practicals at LSHTM. I am a distance learning tutor for the Infectious Diseases masters programme and a residential advisor in University of London halls. I also coordinate an MRC funded public engagement programme "Outbreak control" which introduces GCSE students to careers in public health. 
+I currently teach on epidemiology modules from basic statistics to study design and STATA practicals at LSHTM. I am a distance learning tutor for Infectious Diseases masters programme. I also coordinate an MRC funded public engagement programme "Outbreak control" which introduces GCSE students to careers in public health. 
