@@ -14,18 +14,25 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
+
+[[feature]]
+  icon = "fa-chart-line"
+  icon_pack = "fas"
+  name = "Epidemiology"
+ # description = "10%"
+ 
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
-  name = "Statistics"
+  name = "R"
  # description = "100%"  
   
 [[feature]]
   icon = "vial"
   icon_pack = "fas"
-  name = "Molecular laboratory"
+  name = "Microbiology"
  # description = "10%"
-
+ 
 [[feature]]
   icon = "child"
   icon_pack = "fas"
