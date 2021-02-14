@@ -25,7 +25,7 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
- # description = "100%"  
+ # description = "10%"  
   
 [[feature]]
   icon = "vial"
