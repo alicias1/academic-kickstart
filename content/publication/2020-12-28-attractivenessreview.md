@@ -11,7 +11,7 @@ subtitle: ''
 summary: ''
 authors: ["Julien Martinez","**Alicia Showering**", "Catherine Oke", "Robert T. Jones" and "James G. Logan"]
 
-lastmod: '2020-28-12T16:30:00+02:00'
+lastmod: 
 featured: no
 image:
   caption: ''
