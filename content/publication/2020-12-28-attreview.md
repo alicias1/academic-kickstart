@@ -3,7 +3,7 @@
 title: "Differential attraction in mosquito–human interactions and implications for disease control"
 author: Julien Martinez
 date: '2020-12-28'
-publication: "Journal of the Royal Society Interface"
+publication: "Philosophical Transactions of The Royal Society B"
 publication_types: ["2"]
 slug: sysreview
 categories: ["PhD project"]
