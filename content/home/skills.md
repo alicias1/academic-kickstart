@@ -24,7 +24,7 @@ subtitle = ""
  [[feature]]
   icon = "vial"
   icon_pack = "fas"
-  name = "Microbiology"
+  name = "Molecular Microbiology"
  # description = "10%"
  
 [[feature]]
