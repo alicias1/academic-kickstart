@@ -1,7 +1,7 @@
 
 ---
 title: "Differential attraction in mosquito–human interactions and implications for disease control"
-author: Julien Martinez
+author: Alicia Showering
 date: '2020-12-28'
 publication: "Philosophical Transactions of The Royal Society B"
 publication_types: ["2"]
