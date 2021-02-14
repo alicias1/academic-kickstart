@@ -10,7 +10,7 @@ categories: ["PhD project"]
 tags: []
 subtitle: ''
 summary: ''
-authors: ["Julien Martinez, "**Alicia Showering**", "Catherine Oke", "Robert T. Jones", "James G. Logan"]
+authors: ["**Alicia Showering**", "Catherine Oke", "Robert T. Jones", "James G. Logan"]
 lastmod: '2019-10-14T16:15:12+02:00'
 featured: no
 image:
