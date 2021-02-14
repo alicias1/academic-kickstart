@@ -19,9 +19,9 @@ organizations:
 
 interests:
 
-- Entomology
-- Microbiology
 - Epidemiology
+- Microbiology
+- Infectious Diseases
 - Malaria
 
 education:
