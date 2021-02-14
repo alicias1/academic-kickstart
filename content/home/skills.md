@@ -16,7 +16,7 @@ subtitle = ""
 
 
 [[feature]]
-  icon = "fa-chart-line"
+  icon = "chart-line"
   icon_pack = "fas"
   name = "Epidemiology"
  # description = "10%"
