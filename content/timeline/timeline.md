@@ -1,11 +1,11 @@
 +++
 # News widget.
-widget = "news"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "timeline"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "News"
+title = "Timeline"
 subtitle = "Keeping track of my PhD journey!"
 
 # Date format for news
@@ -17,19 +17,9 @@ date_format = "January 2, 2006"
 #   Required fields are `title` and `date_start`.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-[[news]]
-  title = "Health Economics placement at GlaxoSmithKline"
-  extra_url = ""
-  location = "Brussels, Belgium"
-  date_start = "2019-09-01"
-  description = """
-  3 months placement at GSK in Belgium. See [here](/publication/samindirectcosts/) for a bit about some of the work I did there.
-  
-  ![""](/img/news/bxl.jpg)
-  """
 
 [[news]]
-  title = "Won the Wellcome AMR Data Re-Use Prize"
+  title = "First publication"
   extra_url = ""
   location = "London School of Hygiene & Tropical Medicine"
   date_start = "2019-04-25"
