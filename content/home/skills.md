@@ -21,16 +21,17 @@ subtitle = ""
   name = "Epidemiology"
  # description = "10%"
  
+ [[feature]]
+  icon = "vial"
+  icon_pack = "fas"
+  name = "Microbiology"
+ # description = "10%"
+ 
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
  # description = "10%"  
   
-[[feature]]
-  icon = "vial"
-  icon_pack = "fas"
-  name = "Microbiology"
- # description = "10%"
  
 +++
