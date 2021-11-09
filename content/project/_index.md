@@ -19,7 +19,7 @@ To hear experts discuss why some people get bitten more than others listen [here
 
 
 <br>
-## **Past projects**
+## **Past:**
 
 ## **Public Engagement 2018-2021**
 
