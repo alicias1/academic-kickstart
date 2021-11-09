@@ -68,6 +68,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
-My research interests focus on discovering and protecting from infectious diseases. Through an [MRC London Intercollegiate Doctoral scholarship](https://mrc-lid.lshtm.ac.uk) I am undertaking my PhD at LSHTM investigating the skin microbiome and human attractiveness to malaria mosquitoes. Prior to my PhD I obtained an MSc in Epidemiology from LSHTM (2018-19) and a first class BSc(Hons) in Biological Sciences from the University of Liverpool (2015-2018).
+My research interests focus on discovering and protecting from infectious diseases. Through an [MRC London Intercollegiate Doctoral scholarship](https://mrc-lid.lshtm.ac.uk) I am undertaking my PhD at the London School of Hygiene and Tropical Medicine (LSHTM), investigating the skin microbiome and human attractiveness to malaria mosquitoes. I aim to identify microbes and microbial odours associated with human attractiveness to mosquitoes. 
 
-I currently teach on epidemiology modules from basic statistics to study design and STATA practicals at LSHTM. I am also a tutor for the Infectious Diseases distance learning masters programme. Additionally, I coordinate an MRC funded public engagement programme "Outbreak control" which introduces GCSE students to careers in public health. 
+Prior to my PhD I obtained a first class BSc(Hons) in Biological Sciences from the University of Liverpool (2015-2018) and MSc in Epidemiology from LSHTM (2018-19). I currently teach on biomedical, statistics and entomology modules alongside my PhD research. I am interested in opportunities to apply my expertise to develop innovative technologies to improve health in the future.
