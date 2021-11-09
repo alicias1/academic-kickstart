@@ -5,6 +5,7 @@ type: "widget_page"  # Page type is a Widget Page
 ---
 ## **Upcoming:**
 I will be presenting a poster at St Georges poster day on Wednesday 8th December 2021. 
+<br> 
 I will be presenting a commercialisation strategy based on my research at the London Business School on 18th March 2022 as part of the "Innovation to Market" course. 
 
 <br> 
