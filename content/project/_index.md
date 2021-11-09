@@ -17,11 +17,13 @@ My PhD project is part of the MRC-funded [GenoScent project](https://www.lshtm.a
 
 To hear experts discuss why some people get bitten more than others listen [here](https://www.bbc.co.uk/sounds/play/w3csz1vc).
 
-## **Public Engagement 2018-Present**
 
-I co-organise "Outbreak: an introduction to careers in public health", a public engagment workshop funded by [MRC LID](https://mrc-lid.lshtm.ac.uk). The workshop aims to inspire the next generation of public health professionals. It begins with a short news reel that sets the seen of a malaria outbreak in London, students work against the clock to fight the disease. There are five interactive stations which introduce students to careers in Epidemiology, Statistics, Modelling, Diagnostics and Vector Control. At a time when students are making important A-level and university decisions, the exercise is a memorable introduction to the diversity of science-based careers and skill-sets involved in controlling a disease outbreak.  
 <br>
 ## **Past projects**
+
+## **Public Engagement 2018-2021**
+
+I co-organise "Outbreak: an introduction to careers in public health", a public engagment workshop funded by [MRC LID](https://mrc-lid.lshtm.ac.uk). The workshop aims to inspire the next generation of public health professionals. It begins with a short news reel that sets the seen of a malaria outbreak in London, students work against the clock to fight the disease. There are five interactive stations which introduce students to careers in Epidemiology, Statistics, Modelling, Diagnostics and Vector Control. At a time when students are making important A-level and university decisions, the exercise is a memorable introduction to the diversity of science-based careers and skill-sets involved in controlling a disease outbreak.  
 ## **Masters summer project 2019**
 
 Insitution: London School of Hygiene and Tropical Medicine 
